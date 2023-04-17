@@ -22,3 +22,5 @@ dataset/practice_2_hop_other.txt filter=lfs diff=lfs merge=lfs -text
 dataset/purpose_3_hop_analytics.txt filter=lfs diff=lfs merge=lfs -text
 dataset/purpose_3_hop_other.txt filter=lfs diff=lfs merge=lfs -text
 dataset/purpose_3_hop_advertisement.txt filter=lfs diff=lfs merge=lfs -text
+dataset/models/embedding_w_non_terminal_nodes_100_dim filter=lfs diff=lfs merge=lfs -text
+dataset/models/embedding_w_non_terminal_nodes_100_dim.wv.vectors_ngrams.npy filter=lfs diff=lfs merge=lfs -text
